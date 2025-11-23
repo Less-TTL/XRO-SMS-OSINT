@@ -6,8 +6,9 @@ It pulls carrier data, line type, region, linked names, address history, emails,
 
 The UI is built on **basic ImGui**, keeping everything lightweight, fast, and extremely reliable even on weaker hardware.
 
-<img width="710" height="762" src="/mnt/data/Capture.PNG" />
-<img width="704" height="761" src="/mnt/data/f.png" />
+
+<img width="704" height="761" alt="f" src="https://github.com/user-attachments/assets/c5543a97-4f02-4ba8-a996-79001d09a4ac" />
+<img width="710" height="762" alt="Capture" src="https://github.com/user-attachments/assets/aebfa875-1bd1-40bd-bf31-48eec1753991" />
 
 ---
 
