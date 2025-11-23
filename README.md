@@ -1,7 +1,3 @@
-# XRO-SMS-OSINT
-A fast OSINT tool that pulls carrier data, line type, region, linked names, address history, emails, and basic profile details from a phone number.
-<img width="710" height="762" alt="Capture" src="https://github.com/user-attachments/assets/acfe3bcc-5f5d-4a25-b7d8-d27da38c1f79" />
-<img width="704" height="761" alt="f" src="https://github.com/user-attachments/assets/4ed3bd13-a933-49f3-b478-c9bc523a35f7" />
 
 # **XRO-SMS-OSINT**
 
